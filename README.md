@@ -10,3 +10,7 @@ The true differentiating factor will be who can explain, interpret, and truly un
 Everything here has been created with the support of AI, but reviewed, refined, and annotated by me. 
 
 If it’s here, it’s because I’ve worked through it carefully and understood it in depth.
+
+## TO DO
+
+- Check the Monte Carlo engine, in n_steps=1 gives you 2 values (t_0 - zeros and t_1) should it give you just t_1 ?
