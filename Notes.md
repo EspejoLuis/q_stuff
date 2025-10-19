@@ -24,13 +24,16 @@ $$
 $$
 
 The first term is the **Vega** of the option:
+
 $$
 \frac{\partial C}{\partial \sigma} = \text{Vega}
 = S_0 e^{-qT} \phi(d_1) \sqrt{T},
 $$
+
 which is always positive.
 
 For the second term, differentiate $\sigma = \sqrt{w/T}$ with respect to $w$:
+
 $$
 \frac{\partial \sigma}{\partial w}
 = \frac{1}{2\sqrt{wT}}
