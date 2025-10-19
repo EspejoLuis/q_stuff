@@ -7,10 +7,13 @@ C = C(S_0, K, r, q, T, \sigma).
 $$
 
 We define the **total variance** as
+
 $$
 w = \sigma^2 T,
 $$
+
 so volatility can be written as
+
 $$
 \sigma = \sqrt{\frac{w}{T}}.
 $$
@@ -48,6 +51,7 @@ $$
 $$
 
 Since Vega, $\sigma$, and $T$ are all positive,
+
 $$
 \frac{\partial C}{\partial w} > 0.
 $$
