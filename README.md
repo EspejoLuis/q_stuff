@@ -1,12 +1,10 @@
 # Quantitative Finance Implementations
 
-This repository contains a collection of quantitative implementations in the area of derivative pricing and risk modeling, including Monte Carlo simulations, finite difference (PDE) solvers, and Greeks estimation (Delta, Vega) with variance reduction techniques.
+I’m sharing this repository as part of my ongoing review of quantitative finance concepts. 
 
-I genuinely believe that AI is transforming quantitative finance. If we think it won’t, we risk being left behind. 
-AI is making model building more democratic, anyone can create complex implementations almost instantly. 
+I’ll be using it to organize notes, add links to the videos and books I’m studying, and document my progress. 
 
-The true differentiating factor will be who can explain, interpret, and truly understand what’s being built.
-Everything here has been created with the support of AI, but reviewed, refined, and annotated by me. 
+The repo features implementations of Monte Carlo methods, variance reduction, PDE/finite-difference solvers, and Greeks estimation — built with AI support but fully reviewed, refined, and understood by me. It will increase overtime.
 
 If it’s here, it’s because I’ve worked through it carefully and understood it in depth.
 
