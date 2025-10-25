@@ -1,0 +1,1 @@
+- Check this playlist: https://www.youtube.com/watch?v=8A7XvKjofY8&list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD&index=2
