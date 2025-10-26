@@ -11,9 +11,9 @@
 
 - Reviewed some other Anki cards about Monte Carlo and interpolation:
   - What is the difference between European and American option valuation formulas, and why does the pathwise delta work for European options but fail for American options? Explain in terms of continuity and illustrate with graphs.
-   - Here it was important to understand the problem with discontinuity.
+    - Here it was important to understand the problem with discontinuity.
   - QMC vs PRNG - Are they deterministic ? What each of them aims to achieve ? Which library to use to source them ?
   - Summarise linear, quadratic, cubic, and bicubic interpolation - especially how smooth their first and second derivatives are.
-   - I added also some graphs to make easier to understand the difference in terms of derivatives
-   - Didn't that the term Spline comes from "the flexible spline devices used by shipbuilders and draftsmen to draw smooth shapes".
+    - I added also some graphs to make easier to understand the difference in terms of derivatives
+    - Didn't that the term Spline comes from "the flexible spline devices used by shipbuilders and draftsmen to draw smooth shapes".
 
