@@ -17,3 +17,6 @@
     - I added also some graphs to make easier to understand the difference in terms of derivatives
     - Didn't that the term Spline comes from "the flexible spline devices used by shipbuilders and draftsmen to draw smooth shapes".
 
+## ☀️ 31th October - Friday
+
+- Finally Finish Anki card about Monte Carlo! Starting reviewing PDE and Fusai's slides.
